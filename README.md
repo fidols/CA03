@@ -1,5 +1,6 @@
 # CA03
 # Decision Tree Income Classification Project
+#This project was completed with the assistance of AI tools, which were used to help brainstorm approaches, optimize code, and clarify technical concepts. All implementation, testing, and final decisions were performed and validated by the author to ensure accuracy and understanding.
 
 ## Overview
 
